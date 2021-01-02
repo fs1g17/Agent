@@ -1,0 +1,5 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent;Utility;Disc. Util.;Perceived. Util.;Profile
+0.004;2;;60rounds;Yes;No;1;1.00000;1.00000;0.00000;0.00000;1.00000;[BoulwareNegotiationParty@0];[1.0];[1.0];[1.0];[party1_utility.xml]
+0.001;2;;60rounds;Yes;No;1;1.00000;1.00000;0.00000;0.00000;1.00000;[ConcederNegotiationParty@1];[1.0];[1.0];[1.0];[party1_utility.xml]
+;2;Session genius.core.session.Session@64a77ef7 failed: Failed to execute protocol: Execution failed of MyAgent@2:java.lang.NullPointerException: bid can not be null: bid can not be null:[C:\Users\druma\IdeaProjects\Example Agent\out\production\Example Agent\group12\MyAgent.class];60rounds;No;;0;;;;;;[MyAgent];[0.0];[0.0];;[party1_utility]

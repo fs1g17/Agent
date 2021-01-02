@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BoulwareNegotiationParty@0:java.lang.ArrayIndexOutOfBoundsException: 4: 4" currentTime="Tue Dec 22 01:17:43 GMT 2020" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])" bids="0" runtime="0.0104121" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="MyAgentLab3" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="C:\Users\druma\IdeaProjects\Example Agent\out\production\Example Agent\group12\MyAgentLab3.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

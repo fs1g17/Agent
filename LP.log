@@ -1,0 +1,70 @@
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 13:11:04 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 14:06:00 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 14:06:56 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 14:08:45 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 15:23:41 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 15:27:55 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 15:37:41 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (win64)
+Thread count: 4 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 151 rows, 1800 columns and 1800 nonzeros
+Model fingerprint: 0xb743b546
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 151 rows and 1800 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.06 seconds
+Optimal objective  0.000000000e+00
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 16:25:06 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (win64)
+Thread count: 4 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 151 rows, 1800 columns and 1800 nonzeros
+Model fingerprint: 0xb743b546
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 151 rows and 1800 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  0.000000000e+00
+
+Gurobi 9.1.1 (win64, Java) logging started Tue Dec 29 16:28:40 2020
+
+Academic license - for non-commercial use only - expires 2021-02-27

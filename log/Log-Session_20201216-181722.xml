@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of OptimalBidderSimple@1:java.lang.IllegalStateException: There is no evaluator for issue 2: There is no evaluator for issue 2" currentTime="Wed Dec 16 18:17:22 GMT 2020" lastAction="(Offer  bid:Bid[Food: Catering])" bids="1" runtime="0.0312062" deadline="60rounds">
+<resultsOfAgent agent="MyAgent" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="C:\Users\druma\IdeaProjects\Example Agent\out\production\Example Agent\group12\MyAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="OptimalBidderSimple" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.OptimalBidderSimple" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

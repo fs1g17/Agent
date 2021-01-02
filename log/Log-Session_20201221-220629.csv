@@ -1,0 +1,13 @@
+1,1,0.01639344262295082,BoulwareNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+1,2,0.01639344262295082,MyAgent@1,(Offer  bid:Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])
+2,1,0.03278688524590164,BoulwareNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+2,2,0.03278688524590164,MyAgent@1,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])
+3,1,0.04918032786885246,BoulwareNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+3,2,0.04918032786885246,MyAgent@1,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap])
+4,1,0.06557377049180328,BoulwareNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+4,2,0.06557377049180328,MyAgent@1,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials])
+5,1,0.08196721311475409,BoulwareNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+5,2,0.08196721311475409,MyAgent@1,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help])
+6,1,0.09836065573770492,BoulwareNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+6,2,0.09836065573770492,MyAgent@1,(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+agreement,Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help],0.9999999999999999,0.7261898

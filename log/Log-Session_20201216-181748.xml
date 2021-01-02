@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Wed Dec 16 18:17:55 GMT 2020" lastAction="null" bids="0" runtime="6.3613693" deadline="60rounds">
+<resultsOfAgent agent="CounterOfferHumanNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.CounterOfferHumanNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="MyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\druma\IdeaProjects\Example Agent\out\production\Example Agent\group12\MyAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

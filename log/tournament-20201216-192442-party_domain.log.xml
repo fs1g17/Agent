@@ -1,0 +1,13 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Wed Dec 16 19:24:42 GMT 2020" timeOfAgreement="0.01639344262295082" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials])" domain="etc/templates/partydomain/party_domain.xml" bids="1" runtime="0.003579" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials]" startingAgent="BoulwareNegotiationParty@3" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@3" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 16 19:24:42 GMT 2020" timeOfAgreement="0.01639344262295082" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials])" domain="etc/templates/partydomain/party_domain.xml" bids="1" runtime="7.702E-4" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials]" startingAgent="ConcederNegotiationParty@4" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@4" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 16 19:24:42 GMT 2020" timeOfAgreement="0.01639344262295082" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Ballroom, Invitations: Custom, Handmade, Music: Band, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="1" runtime="0.0012232" finalOutcome="Bid[Food: Catering, Drinks: Beer Only, Location: Ballroom, Invitations: Custom, Handmade, Music: Band, Cleanup: Special Equiment]" startingAgent="RandomParty@5" deadline="60rounds">
+<resultsOfAgent agent="RandomParty@5" agentDesc="Place random bids until 90% of time (copy)" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.RandomParty" finalUtility="0.6325000000000001" discountedUtility="0.6325000000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

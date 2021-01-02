@@ -1,0 +1,11 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Perceived. Util. 1;Perceived. Util. 2;Profile 1;Profile 2
+0.041;51;;60rounds;Yes;No;2;0.67250;0.69869;0.20961;0.25593;1.37119;BoulwareNegotiationParty@0;BoulwareNegotiationParty@1;0.6725;0.69869077026364;0.6725;0.69869077026364;0.6725;0.69869077026364;party1_utility.xml;party2_utility.xml
+0.008;10;;60rounds;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;ConcederNegotiationParty@2;BoulwareNegotiationParty@3;0.6583333333333333;1.0;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+0.290;51;;60rounds;Yes;No;2;0.69002;0.87833;0.00608;0.25616;1.56835;MyAgent@4;BoulwareNegotiationParty@5;0.8783333333333334;0.6900190691355816;0.8783333333333334;0.6900190691355816;0.8783333333333334;0.6900190691355816;party1_utility.xml;party2_utility.xml
+0.018;30;;60rounds;Yes;No;2;0.49465;0.97500;0.00000;0.47369;1.46965;BoulwareNegotiationParty@6;ConcederNegotiationParty@7;0.975;0.49464690002105177;0.975;0.49464690002105177;0.975;0.49464690002105177;party1_utility.xml;party2_utility.xml
+0.003;6;;60rounds;Yes;No;2;0.74667;0.77847;0.12816;0.15492;1.52513;ConcederNegotiationParty@8;ConcederNegotiationParty@9;0.7466666666666668;0.7784676281352214;0.7466666666666668;0.7784676281352214;0.7466666666666668;0.7784676281352214;party1_utility.xml;party2_utility.xml
+0.039;8;;60rounds;Yes;No;2;0.70874;0.81833;0.06688;0.22234;1.52708;MyAgent@10;ConcederNegotiationParty@11;0.8183333333333335;0.7087418378700396;0.8183333333333335;0.7087418378700396;0.8183333333333335;0.7087418378700396;party1_utility.xml;party2_utility.xml
+0.270;51;;60rounds;Yes;No;2;0.77250;0.91209;0.01483;0.02068;1.68459;BoulwareNegotiationParty@12;MyAgent@13;0.7725;0.9120887338395958;0.7725;0.9120887338395958;0.7725;0.9120887338395958;party1_utility.xml;party2_utility.xml
+0.042;10;;60rounds;Yes;No;2;0.77250;0.88764;0.02068;0.04279;1.66014;ConcederNegotiationParty@14;MyAgent@15;0.7725;0.8876372684293143;0.7725;0.8876372684293143;0.7725;0.8876372684293143;party1_utility.xml;party2_utility.xml
+0.625;61;;60rounds;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;MyAgent@16;MyAgent@17;0.0;0.0;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml
